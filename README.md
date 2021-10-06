@@ -8,7 +8,7 @@ The haar cascade algorithms were downloaded from opencv github repository:
 
 ## Mediapipe
 
-Hand tracking project uses mediapipe.
+Hand tracking and pose detection projects uses mediapipe.
 
 ## Local Development
 
