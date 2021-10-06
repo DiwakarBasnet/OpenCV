@@ -2,9 +2,13 @@
 
 ## Haar Cascade Algorithm
 
-The algorithms used in these projects were downloaded from opencv github repository: 
+The haar cascade algorithms were downloaded from opencv github repository: 
 
 "https://github.com/opencv/opencv/tree/master/data/haarcascades"
+
+## Mediapipe
+
+Hand tracking project uses mediapipe.
 
 ## Local Development
 
